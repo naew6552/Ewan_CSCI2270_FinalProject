@@ -1,0 +1,17 @@
+General Program Outline:
+Main menu
+1: Add day
+2: Update Day
+3: Delete Day
+4: Print Statistics
+5: Quit
+
+Each "Day" is a node, and is going to be stored in a Red-Black BST
+Each day will have the following attributes:
+	Date, Day of the Week, % productivity and time of productivity, 
+	Factors that were attributed to productivity
+	
+General Implementation: 
+	Impliment Red Black Tree
+	Store data by % productivity
+	

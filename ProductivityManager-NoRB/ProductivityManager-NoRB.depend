@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1461728261 source:/home/user/Dropbox/CSCI 2270/Final Project/Ewan_CSCI2270_FinalProject/Ewan_CSCI2270_FinalProject/Productivity - No RB/ProductivityManager-NoRB/main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"include/BinarySearchTree.h"
+
+1461730958 source:/home/user/Dropbox/CSCI 2270/Final Project/Ewan_CSCI2270_FinalProject/Ewan_CSCI2270_FinalProject/Productivity - No RB/ProductivityManager-NoRB/src/BinarySearchTree.cpp
+	"../include/BinarySearchTree.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<string>
+
+1461728001 /home/user/Dropbox/CSCI 2270/Final Project/Ewan_CSCI2270_FinalProject/Ewan_CSCI2270_FinalProject/Productivity - No RB/ProductivityManager-NoRB/include/BinarySearchTree.h
+	<iostream>
+

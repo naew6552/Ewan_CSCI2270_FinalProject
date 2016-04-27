@@ -15,3 +15,17 @@ General Implementation:
 	Impliment Red Black Tree
 	Store data by % productivity
 	
+	
+Change if plans!!
+quick ideas:
+	implament a linked list for each node.
+	each node will have parent, left, right, next, and previous.
+	This will allow us to determine what caused increases or decreases in productivity
+	
+	Add first and last nodes to global variables
+	
+Add fields to Day struct
+	hours of sleep
+	caffeine intake
+	exercise
+	ect

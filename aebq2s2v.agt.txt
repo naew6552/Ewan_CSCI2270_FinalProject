@@ -1,0 +1,46 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    Productivity Manager/.vs/Productivity Manager/v14/.suo
+#	deleted:    Productivity Manager/Debug/Productivity Manager.exe
+#	deleted:    Productivity Manager/Debug/Productivity Manager.ilk
+#	deleted:    Productivity Manager/Debug/Productivity Manager.pdb
+#	deleted:    Productivity Manager/Productivity Manager.sdf
+#	deleted:    Productivity Manager/Productivity Manager.sln
+#	deleted:    Productivity Manager/Productivity Manager/Debug/Producti.5FCEB27F.tlog/CL.command.1.tlog
+#	deleted:    Productivity Manager/Productivity Manager/Debug/Producti.5FCEB27F.tlog/CL.read.1.tlog
+#	deleted:    Productivity Manager/Productivity Manager/Debug/Producti.5FCEB27F.tlog/CL.write.1.tlog
+#	deleted:    Productivity Manager/Productivity Manager/Debug/Producti.5FCEB27F.tlog/Productivity Manager.lastbuildstate
+#	deleted:    Productivity Manager/Productivity Manager/Debug/Producti.5FCEB27F.tlog/link.command.1.tlog
+#	deleted:    Productivity Manager/Productivity Manager/Debug/Producti.5FCEB27F.tlog/link.read.1.tlog
+#	deleted:    Productivity Manager/Productivity Manager/Debug/Producti.5FCEB27F.tlog/link.write.1.tlog
+#	deleted:    Productivity Manager/Productivity Manager/Debug/Productivity Manager.log
+#	deleted:    Productivity Manager/ipch/PRODUCTIVITY MANAGER-d74f2014/PRODUCTIVITY MANAGER-c69241bd.ipch
+#
+# Changes not staged for commit:
+#	deleted:    Productivity Manager/Productivity Manager/Debug/Productivity Manager.obj
+#	deleted:    Productivity Manager/Productivity Manager/Debug/Productivity Manager.pch
+#	deleted:    Productivity Manager/Productivity Manager/Debug/RedBlackTree.obj
+#	deleted:    Productivity Manager/Productivity Manager/Debug/stdafx.obj
+#	deleted:    Productivity Manager/Productivity Manager/Debug/vc140.idb
+#	deleted:    Productivity Manager/Productivity Manager/Debug/vc140.pdb
+#	deleted:    Productivity Manager/Productivity Manager/Productivity Manager.cpp
+#	deleted:    Productivity Manager/Productivity Manager/Productivity Manager.vcxproj
+#	deleted:    Productivity Manager/Productivity Manager/Productivity Manager.vcxproj.filters
+#	deleted:    Productivity Manager/Productivity Manager/ReadMe.txt
+#	deleted:    Productivity Manager/Productivity Manager/RedBlackTree.cpp
+#	deleted:    Productivity Manager/Productivity Manager/RedBlackTree.h
+#	deleted:    Productivity Manager/Productivity Manager/stdafx.cpp
+#	deleted:    Productivity Manager/Productivity Manager/stdafx.h
+#	deleted:    Productivity Manager/Productivity Manager/targetver.h
+#	modified:   Program Outline.txt
+#	modified:   README.md
+#
+# Untracked files:
+#	ProductivityManager-NoRB/
+#
+
